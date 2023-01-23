@@ -1,15 +1,15 @@
 <h2 align="center">
-   Projeto WEB de Galeria de Imagens RESTFul + CRUD com ANGULAR, HTML5, Bootstrap, JS, Node, MySQL e muitos mais...
+   Projeto WEB de Galeria de Imagens RESTFul.
 </h2>
 
 ## 📃 Sobre
 
-**Galeria de Imagens**  é projeto Web completo de Galeria de Imagens e CRUD com Angular, Bootstrap, JavaScript ES6, Node, Express, MySQL...
+**Galeria de Imagens**  é projeto Web completo de Galeria de Imagens e CRUD.
 
 
 ## ✨ Features
 
-✔ aplicações Web moderna com Angular, JavaScript e NodeJs, podendo criar aplicações SPA (Single Page Application) e API RESTFull com Express e MySQL
+✔ Aplicações Web moderna com Angular, JavaScript e NodeJs, podendo criar aplicações SPA (Single Page Application) e API RESTFull com Express e MySQL
 
 ✔ Home Page Galeria de Imagens com Carousel
 
@@ -58,7 +58,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - Dentre outras.
 
-- NodeJs.
 
 <div align="center">
    <img alt="Projeto" title="#Projeto" src=".github/img/projeto.png" width="75%" />
@@ -67,5 +66,5 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ---
 
 <h5 align="center">
-  &copy;2021 - <a href="https://github.com/tabsturmab/">André H da Silva</a>
+  &copy;2023 - <a href="https://github.com/tabsturmab/">André H da Silva</a>
 </h5>
