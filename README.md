@@ -12,4 +12,4 @@
 - Dentre outras.
 
 
-![Projeto](projeto-galeria-imagens-angular/rest-api/public/imagens/projeto.png)
+![Projeto](public/imagens/projeto.png)
